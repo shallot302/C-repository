@@ -1,0 +1,6 @@
+﻿  源.cpp
+D:\test\test\源.cpp(187,10): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\test\test\源.cpp(189,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+D:\test\test\源.cpp(190,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+D:\test\test\源.cpp(191,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+  test.vcxproj -> D:\test\x64\Debug\test.exe
