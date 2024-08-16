@@ -1,0 +1,14 @@
+D:\1111111\obstacle1\bin\Debug\net8.0\obstacle1.exe
+D:\1111111\obstacle1\bin\Debug\net8.0\obstacle1.deps.json
+D:\1111111\obstacle1\bin\Debug\net8.0\obstacle1.runtimeconfig.json
+D:\1111111\obstacle1\bin\Debug\net8.0\obstacle1.dll
+D:\1111111\obstacle1\bin\Debug\net8.0\obstacle1.pdb
+D:\1111111\obstacle1\obj\Debug\net8.0\obstacle1.GeneratedMSBuildEditorConfig.editorconfig
+D:\1111111\obstacle1\obj\Debug\net8.0\obstacle1.AssemblyInfoInputs.cache
+D:\1111111\obstacle1\obj\Debug\net8.0\obstacle1.AssemblyInfo.cs
+D:\1111111\obstacle1\obj\Debug\net8.0\obstacle1.csproj.CoreCompileInputs.cache
+D:\1111111\obstacle1\obj\Debug\net8.0\obstacle1.dll
+D:\1111111\obstacle1\obj\Debug\net8.0\refint\obstacle1.dll
+D:\1111111\obstacle1\obj\Debug\net8.0\obstacle1.pdb
+D:\1111111\obstacle1\obj\Debug\net8.0\obstacle1.genruntimeconfig.cache
+D:\1111111\obstacle1\obj\Debug\net8.0\ref\obstacle1.dll
