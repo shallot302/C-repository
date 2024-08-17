@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\test\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B6BBECDA-5D8E-4F32-8FB9-5247DC31C60E}|test\\test.vcxproj|D:\\test\\test\\\u6E90.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B6BBECDA-5D8E-4F32-8FB9-5247DC31C60E}|test\\test.vcxproj|solutionrelative:test\\\u6E90.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6BBECDA-5D8E-4F32-8FB9-5247DC31C60E}|test\\test.vcxproj|D:\\test\\test\\\u6E901.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B6BBECDA-5D8E-4F32-8FB9-5247DC31C60E}|test\\test.vcxproj|solutionrelative:test\\\u6E901.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "\u6E90.cpp",
+              "DocumentMoniker": "D:\\test\\test\\\u6E90.cpp",
+              "RelativeDocumentMoniker": "test\\\u6E90.cpp",
+              "ToolTip": "D:\\test\\test\\\u6E90.cpp",
+              "RelativeToolTip": "test\\\u6E90.cpp",
+              "ViewState": "AQIAALwAAAAAAAAAAAAAAMEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-06T08:14:49.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "\u6E901.cpp",
+              "DocumentMoniker": "D:\\test\\test\\\u6E901.cpp",
+              "RelativeDocumentMoniker": "test\\\u6E901.cpp",
+              "ToolTip": "D:\\test\\test\\\u6E901.cpp",
+              "RelativeToolTip": "test\\\u6E901.cpp",
+              "ViewState": "AQIAADkAAAAAAAAAAAAAAEsAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-08T02:26:13.836Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
