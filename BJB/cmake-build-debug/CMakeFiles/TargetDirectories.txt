@@ -1,0 +1,3 @@
+D:/1111111/BJB/cmake-build-debug/CMakeFiles/BJB.dir
+D:/1111111/BJB/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/1111111/BJB/cmake-build-debug/CMakeFiles/rebuild_cache.dir
