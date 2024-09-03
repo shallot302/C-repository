@@ -1,0 +1,3 @@
+D:/1111111/untitled22222/cmake-build-debug/CMakeFiles/untitled22222.dir
+D:/1111111/untitled22222/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/1111111/untitled22222/cmake-build-debug/CMakeFiles/rebuild_cache.dir
