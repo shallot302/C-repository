@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\1111111\\AJB\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{06FE7B14-5503-4942-B37C-C78D91A8CF2B}|AJB.vcxproj|D:\\1111111\\AJB\\\u6E90.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{06FE7B14-5503-4942-B37C-C78D91A8CF2B}|AJB.vcxproj|solutionrelative:\u6E90.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "\u6E90.c",
+              "DocumentMoniker": "D:\\1111111\\AJB\\\u6E90.c",
+              "RelativeDocumentMoniker": "\u6E90.c",
+              "ToolTip": "D:\\1111111\\AJB\\\u6E90.c",
+              "RelativeToolTip": "\u6E90.c",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAABoAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-08-22T08:51:03.562Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
